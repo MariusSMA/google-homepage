@@ -496,7 +496,17 @@ body {
   text-decoration: underline;
 }
 
-@media (min-width: 443px) {
+/* Mobile Layout (305px) */
+
+@media (max-width: 19.125rem) {
+  .search-language-options {
+    font-size: 0.732rem;
+  }
+}
+
+/* Tablet Layout */
+
+@media (min-width: 27.6875rem) {
   .lower-footer {
     position: static;
   }
@@ -514,6 +524,8 @@ body {
     transform: translateY(0);
   }
 }
+
+/* Desktop Layout */
 
 @media (min-width: 41rem) {
   .lower-footer {
@@ -538,11 +550,5 @@ body {
 
   .lower-footer {
     padding: 0.85rem;
-  }
-}
-
-@media (max-width: 19.125rem) {
-  .search-language-options {
-    font-size: 0.732rem;
   }
 }
