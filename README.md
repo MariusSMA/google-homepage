@@ -37,4 +37,4 @@ Users should be able to:
 
 ## Author
 
-- Twitter - [@alexwtfmarius](https://twitter.com/alexwtfmarius)
+- Twitter - [@alexwtfmarius](https://twitter.com/Marius_SMA)
