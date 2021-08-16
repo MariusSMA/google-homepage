@@ -37,5 +37,4 @@ Users should be able to:
 
 ## Author
 
-- GitHub - [@2zip](https://github.com/2zip)
 - Twitter - [@alexwtfmarius](https://twitter.com/alexwtfmarius)
