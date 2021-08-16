@@ -2,7 +2,7 @@
 
 This is a solution to
 the [Google Homepage project from TheOdinProject assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css)
-.
+using the [HTML5 Boilerplate](https://html5boilerplate.com/).
 
 ## Table of contents
 
